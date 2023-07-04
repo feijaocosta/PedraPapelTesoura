@@ -1,2 +1,2 @@
-#Pedra, Papel e Tesoura#
-Projeto criado para exercício do Senac
+##Pedra, Papel e Tesoura##
+Projeto criado para exercÃ­cio do Senac
